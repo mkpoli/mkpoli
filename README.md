@@ -23,6 +23,9 @@ Here are some ideas to get you started:
 [![Zenn Articles](https://badgen.org/img/zenn/mkpoli/articles?style=flat)](https://zenn.dev/mkpoli)
 [![Qiita Articles](https://badgen.org/img/qiita/mkpoli/articles?style=flat)](https://qiita.com/mkpoli)
 
+![Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mkpoli&theme=radical)
+![Profile Trophy](https://github-profile-trophy.vercel.app/?username=mkpoli&theme=radical)
+
 # Languages ranked by proficiency
 
 ## Human Languages
