@@ -26,6 +26,18 @@ Here are some ideas to get you started:
 ![Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mkpoli&theme=radical)
 ![Profile Trophy](https://github-profile-trophy.vercel.app/?username=mkpoli&theme=radical)
 
+# Interest
+
+* Languages
+* Linguistics
+* Digital Humanities
+* Knowledge distribution
+* Digital illustrating
+* Calligraphy / Writing
+* Gaming (FPS, Visual Novel, RTS, Rhythm Games)
+* Music (J-POP / Vocaloid / Performing)
+* etc.
+
 # Languages ranked by proficiency
 
 ## Human Languages
